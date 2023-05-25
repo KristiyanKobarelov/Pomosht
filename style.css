@@ -26,11 +26,11 @@
   width: 8rem;
   height: 2.9rem;
   border-radius: 12px;
-  transition: all 200ms ease-in;
+  transition: all 250ms ease-in;
 }
 
 .button:hover {
   background-color: white;
   color:#33d87d;
-  transition: all 200ms ease-in;
+  transition: all 250ms ease-in;
 }
