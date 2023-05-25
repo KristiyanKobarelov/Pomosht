@@ -7,10 +7,10 @@
 .text{
   position: absolute; 
   top: 6rem;
-  right: 29rem;
+  right: 20rem;
   font-style: italic; 
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 .button{
   border:none;
@@ -33,4 +33,73 @@
   background-color: white;
   color:#33d87d;
   transition: all 250ms ease-in;
+}
+.second{
+  position:absolute;
+  right:0rem;
+  top:0rem;
+   width: 120rem;
+   height: 24rem;
+   background-color:#00b7ff;
+}
+.buttonb{
+  border:none;
+  cursor: pointer;
+  color: white;
+  background-color:#33d87d;
+  display:inline-block;
+  font-size: 1rem;
+  font-style: bold;
+  position:absolute;
+  top: 1.5rem;
+  right: 3rem;
+  width: 8rem;
+  height: 2.9rem;
+  border-radius: 12px;
+  transition: all 250ms ease-in;
+}
+
+.buttonb:hover {
+  background-color: white;
+  color:#33d87d;
+  transition: all 250ms ease-in;
+}
+.elsys{
+  height: 10rem;
+  width: 10rem;
+  position : absolute; 
+  right: 105rem;
+  top: 5rem;
+}
+.texts{
+  position: absolute; 
+  top: 15rem;
+  right: 33rem;
+  font-style: italic; 
+  color: white;
+  font-size: 1.8rem;
+}
+.textunder{
+  position: absolute;
+  top:22rem;
+  right:40rem;
+  color:black;
+  font-size: 1.8rem;
+  font-style: italic;
+}
+.reason{
+  position: absolute;
+  top:27rem;
+  right:60rem;
+  color:black;
+  font-size: 1.8rem;
+  font-style: italic;
+}
+.black{
+  height: 90rem;
+  width: 90rem;
+  position : absolute; 
+  right: 10rem;
+  top: 30rem;
+  color:grey;
 }
