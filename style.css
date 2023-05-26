@@ -103,3 +103,11 @@
   top: 30rem;
   color:grey;
 }
+.reasons{
+  position: absolute;
+  top:27rem;
+  right:45rem;
+  color:black;
+  font-size: 1.8rem;
+  font-style: italic;
+}
